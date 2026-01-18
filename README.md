@@ -2,7 +2,7 @@
 ### Description
 This repository contains the code and resources for an interactive dashboard built with **Streamlit** to analyze and compare the performance of **five different machine learning models** designed to predict player trajectory (x, y coordinates) in American football.
 The models implemented are: neural networks (CNN), transformers, particle filters, and an integrated neural networks/transformer with particle filters approach. The dashboard includes various static visualizations (e.g., error metrics, cross-validation results) and interactive elements,
-including two pre-rendered animations/frame-by-frame visualizations of player movement. For computation reasons, the dashboard runs on a small subset of our large dataset.
+including two pre-rendered animations/frame-by-frame visualizations of player movement. For computation reasons, the dashboard runs on a small subset of our large dataset. This project was created by Ali Qadri, Westley Cook, Dianze (Jerry) Liu, Zakk Loveall, Keping (Eric) Le, and Amir Javadi. 
 
 All datasets for model training can be found in the Data folder. All datasets needed to render the dashboard can be found in the data folder under the dashboard subdirectory.
 
