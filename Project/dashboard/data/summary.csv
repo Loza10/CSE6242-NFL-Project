@@ -1,0 +1,6 @@
+﻿model,rmse_squared,rmse
+Transformer ,1.1025,0.74
+CNN ,2.6896,1.44
+Transformer-particle filter ,37.4544,6.24
+Particle Filter,701.1904,17.96
+CNN-particle filter ,1077.8089,22.24
